@@ -1,0 +1,5 @@
+﻿#	ServerTable					
+#	ID		ChannelName	ServerName	IP	Port
+#	int		string	string	string	string
+#		备注	通道名称	服务器名称	IP地址	端口
+	1		Socket	TCP	127.0.0.1	8808

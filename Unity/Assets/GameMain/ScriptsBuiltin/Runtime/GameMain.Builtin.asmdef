@@ -1,0 +1,21 @@
+{
+  "name": "GameMain.Builtin",
+  "rootNamespace": "",
+  "references": [
+    "GameFramework",
+    "UnityGameFramework.Runtime",
+    "Unity.TextMeshPro",
+    "DOTween.Modules",
+    "UniTask",
+    "HybridCLR.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,11 @@
+﻿#	UIGroup			
+#	ID		Name	Depth
+#	int		string	int
+#		备注	界面名称	界面深度
+	0		Default	0
+	1	一直处于底部的界面	AlwaysBottomUI	1
+	2	背景界面	BackgroundUI	2
+	3	公共界面	CommonUI	3
+	4	动画界面	AnimationOnUI	4
+	5	弹出界面	PopupUI	5
+	6	引导界面	GuideUI	6

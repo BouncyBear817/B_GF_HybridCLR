@@ -1,0 +1,5 @@
+﻿#	EntityGroup						
+#	ID		Name	InstanceAutoReleaseInterval	InstanceCapacity	InstanceExpireTime	InstancePriority
+#	int		string	float	int	float	int
+#		备注	实体组名称	实体组实例对象池自动释放可释放对象的间隔秒数	实体组实例对象池的容量	实体组实例对象池对象过期秒数	实体组实例对象池的优先级
+	1	默认	Default	60	60	60	0

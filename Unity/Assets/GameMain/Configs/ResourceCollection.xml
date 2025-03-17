@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="Configs/Base" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Core/EntityGroupTable" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Core/SoundGroupTable" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/Core/UIGroupTable" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/LevelTable" LoadType="0" Packed="False" />
+      <Resource Name="DataTables/ServerTable" LoadType="0" Packed="False" />
+      <Resource Name="HotfixDlls/Hotfix" LoadType="0" Packed="False" />
+      <Resource Name="HotfixDlls/HotfixDllList" LoadType="0" Packed="False" />
+      <Resource Name="Scenes/Game" LoadType="0" Packed="False" />
+      <Resource Name="Settings/GameConfigSettings" LoadType="0" Packed="False" />
+      <Resource Name="UI/UIForms/UIInitRootForm" LoadType="0" Packed="False" />
+    </Resources>
+    <Assets>
+      <Asset Guid="08a7ba4ce55aa424eacea7cc99ca95e8" ResourceName="DataTables/Core/UIGroupTable" />
+      <Asset Guid="237ceae042d29dd49b41253f9e940ecf" ResourceName="UI/UIForms/UIInitRootForm" />
+      <Asset Guid="474c537d5b110d540a5c771cf5d33459" ResourceName="DataTables/LevelTable" />
+      <Asset Guid="82f0bc9bec300174a9be7a97c2d65c87" ResourceName="Scenes/Game" />
+      <Asset Guid="94670729364a50b4c9b441356665fe4c" ResourceName="Configs/Base" />
+      <Asset Guid="9675e5c5889c379409172a640dc0ec5e" ResourceName="Settings/GameConfigSettings" />
+      <Asset Guid="9d14dbd7f60c37b42bdb7009639b4838" ResourceName="HotfixDlls/Hotfix" />
+      <Asset Guid="a4b84bea6ae54149ac0152cc3c31fe1b" ResourceName="HotfixDlls/HotfixDllList" />
+      <Asset Guid="b44c7918530854a4fbfcdf4d61a634a7" ResourceName="DataTables/ServerTable" />
+      <Asset Guid="c96b7e1b560a5f448b6b2502fd6de4db" ResourceName="DataTables/Core/SoundGroupTable" />
+      <Asset Guid="cca5b9d733fbc0048a14acc230ea073e" ResourceName="DataTables/Core/EntityGroupTable" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

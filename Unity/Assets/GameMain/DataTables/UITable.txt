@@ -1,0 +1,5 @@
+﻿#	UITable					
+#	ID		AssetName	GroupName	Priority	PauseCovered
+#	int		string	string	int	bool
+#		备注	界面资源名称	界面组名称	加载界面资源的优先级	是否暂停被覆盖的界面
+	1		UIInitRootForm	BackgroundUI	0	True
