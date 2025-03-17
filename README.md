@@ -1,5 +1,5 @@
 # Chuan_GameFramework
-This project will be optimized and extended based on GameFramework.
+This project is optimized and extended based on GameFramework, and has added the HybridCLR module.
 
 
 ### 引用库 致谢
